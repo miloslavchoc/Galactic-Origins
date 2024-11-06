@@ -1,2 +1,1 @@
-# Galactic-Origins
-Galactic Origins Access Token
+Popis projektu Galactic Origins.
